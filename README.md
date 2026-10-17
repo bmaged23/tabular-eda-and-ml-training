@@ -1,4 +1,4 @@
-# Tabular ML & Exploratory Data Analysis
+# Tabular EDA & Machine Learning Training
 
 A collection of seven historical Python learning notebooks by **Bola Maged Ramses Nessim**, covering tabular exploration, preprocessing, classification and regression. These complement my newer speech, computer-vision and agentic-AI applications by showing earlier work with data and conventional ML.
 
